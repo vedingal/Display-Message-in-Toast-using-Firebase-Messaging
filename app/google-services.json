@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "441808930226",
+    "firebase_url": "https://fir-test1-c09dc.firebaseio.com",
+    "project_id": "fir-test1-c09dc",
+    "storage_bucket": "fir-test1-c09dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441808930226:android:f68007c90e109e26",
+        "android_client_info": {
+          "package_name": "com.venndingal.firebasepushnotificationtutorialtriggeredbyanotherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441808930226-s4d1ihco93bkskji9hv5n0lsbfafnhvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3zWwxavnB74VsW_fxFA6e--jRq1B5BnQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
